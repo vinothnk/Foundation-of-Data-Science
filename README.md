@@ -1,4 +1,12 @@
 # Foundation of Data Science
+
+Our business question was:
+
+1. How to improve our profits 					
+2. What products should we focus on (Which Market and category, ie machine)
+3. Which products should we drop (That are not profitability)
+4. To predict future economic conditions, trends, or values
+
  
 # 1 - Using Excel to clean an uncleaned dataset.
 
